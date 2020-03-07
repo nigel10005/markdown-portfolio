@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Some of my abilities:
+- I can **tie** my own *shoelaces*.
+- I can *usually* remember to put on trousers **before going out**.
