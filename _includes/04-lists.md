@@ -9,9 +9,9 @@
   - And other stuff
   
 ### Also numbered...
-1 Long walks on the beach
-2 Disco dancing
-3 Open Source
-4 Learning Git
-  1 And GitHub
-  2 And other stuff
+1. Long walks on the beach
+2. Disco dancing
+3. Open Source
+  1. Learning Git
+  2. And GitHub
+4. And other stuff
