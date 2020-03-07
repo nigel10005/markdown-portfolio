@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Nigel's Page
+Normal text
+###### And an H6 line
